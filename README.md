@@ -37,5 +37,5 @@ const mayur: Developer = {
 ---
 ### 🤪 A Little Humor Never Hurts
 
-![Coding Fun](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)
+![Coding Fun](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)
 
