@@ -27,3 +27,9 @@ const mayur: Developer = {
 ```
 ### 🔧 Tech Stack & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,tailwind,git,github,vscode,figma" /> </p>
+
+### 🌱 Currently Working On
+
+- Building and optimizing Angular apps
+- Implementing best practices for scalable UI architecture
+- Enhancing performance and accessibility in SPAs
