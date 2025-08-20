@@ -25,4 +25,5 @@ const mayur: Developer = {
 };
 
 ```
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mayur-sonawane&show_icons=true&theme=react&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-sonawane&layout=compact&theme=react&hide_border=true" /> </p>
+🔧 Tech Stack & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,tailwind,git,github,vscode,figma" /> </p>
