@@ -25,5 +25,5 @@ const mayur: Developer = {
 };
 
 ```
-🔧 Tech Stack & Tools
+### 🔧 Tech Stack & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,tailwind,git,github,vscode,figma" /> </p>
