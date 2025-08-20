@@ -34,3 +34,8 @@ const mayur: Developer = {
 - Building and optimizing Angular apps
 - Implementing best practices for scalable UI architecture
 - Enhancing performance and accessibility in SPAs
+---
+### 🤪 A Little Humor Never Hurts
+
+![Coding Fun](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
