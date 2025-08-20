@@ -11,7 +11,8 @@
 </p>
 
 ---
-
+### 🔧 Tech Stack & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,tailwind,git,github,vscode,figma" /> </p>
 ### 🧑‍💻 About Me
 
 ```ts
@@ -25,8 +26,7 @@ const mayur: Developer = {
 };
 
 ```
-### 🔧 Tech Stack & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,tailwind,git,github,vscode,figma" /> </p>
+---
 
 ### 🌱 Currently Working On
 
