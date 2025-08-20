@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:mgsonawane2480@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/mayur-sonawane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/mayur-sonawane](https://www.linkedin.com/in/mayur-sonawane-9051722b7/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/mayursonawane1"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
